@@ -22,7 +22,7 @@ function Topbar() {
                 </div>
                 <p className=''>We ship worldwide -  Fast and reliable shipping!</p>
                 <div className='hidden md:block'>
-                    <a href='tel:+923414570971' className='cursor-pointer hover:text-slate-300'>+92 324 567890</a>
+                    <a href='tel:+923456890' className='cursor-pointer hover:text-slate-300'>+92 324 567890</a>
                 </div>
             </div>
         </div>
