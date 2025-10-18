@@ -23,7 +23,7 @@ This project includes user authentication, product management, shopping cart, ch
 
 ## Project Structure
 ecommerce_store/
-- client/ # Frontend (React + Vite)
-- server/ # Backend (Node.js + Express + MongoDB)
+- client/ Frontend (React + Vite)
+- server/ Backend (Node.js + Express + MongoDB)
 - .gitignore
 - README.md
